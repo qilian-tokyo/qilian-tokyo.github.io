@@ -1,16 +1,14 @@
-/**
- * note.js | https://theme-next.org/docs/tag-plugins/note/
- */
-
 /* global hexo */
+// Class: default, primary, success, info, warning, danger
+// Usage (no need to write this in 1 line if u want see any bugs):
+// {% note class %}
+// Content
+// {% endnote %}
 
-'use strict';
-
-function postNote(args, content) {
-  return '<div class="note ' + args.join(' ') + '">'
-       + hexo.render.renderSync({text: content, engine: 'markdown'}).split('\n').join('')
-       + '</div>';
+function bscallOut (args, content) {
+  return '<div class="note ' + args.join(' ') + '">' +
+            hexo.render.renderSync({text: content, engine: 'markdown'}) +
+          '</div>';
 }
 
-hexo.extend.tag.register('note', postNote, {ends: true});
-hexo.extend.tag.register('subnote', postNote, {ends: true});
+hexo.extend.tag.register('note', bscallOut, {ends: true});
