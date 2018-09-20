@@ -49,7 +49,6 @@ menu:
   categories: /categories/
   archives: /archives/
   tags: /tags/
-  offer: /tags/%E5%86%85%E5%AE%9A/
 #  sitemap: /sitemap.xml
   commonweal: /404.html
 
@@ -65,7 +64,6 @@ menu_icons:
   home: home
   about: user
   categories: th
-  offer: trophy
   tags: tags
   archives: archive
   commonweal: heartbeat
