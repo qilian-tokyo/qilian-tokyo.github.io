@@ -1,9 +1,7 @@
-title: 七联简介
+title: 关于我们
 date: 2015-04-12 21:00:00
 comments: false
 ---
-
-### ■　关于我们
 
 <blockquote class="blockquote-center"> 联你我，启未来 </blockquote>
 
@@ -15,12 +13,9 @@ comments: false
 
 {% note primary %} 
 #### 七联・事务所
-東京都新宿区百人町2-21-3 ハイネス野上 4F
-{% endnote %}
+台東区東上野 5-15-2 TSSビル 1F
 
-{% note success %} 
-#### 七联・教室 
-東京都文京区音羽１丁目８−８ THE NEWORLD BLD. 3F
+上野駅より8分, 御徒町駅より3分
 {% endnote %}
 
 ---
@@ -32,8 +27,4 @@ comments: false
 | 官网 | https://qilian.jp |
 | 七联团队微信号 | qilianjiuzhi |
 | 新浪微博 | 七联_日本就职 |
-| 微信公众号 | findjobinjapan |
-| 信息发布邮箱 | info@qilian.jp |
-| 企业合作邮箱 | business@qilian.jp |
-| 就职咨询邮箱 | student@qilian.jp |
-| 学员专区 | https://forum.qilian.jp |
+| 微信公众号 | qilianjob |
