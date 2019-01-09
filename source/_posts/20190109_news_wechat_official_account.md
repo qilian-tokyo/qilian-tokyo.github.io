@@ -12,7 +12,7 @@ tags:
 
 根据目前七联的业务逻辑重新设计了微信订阅号(qilianjob)自定义菜单, 方便在日留学生，企业法人等用户和我们更好的沟通。
 
-<div style="width: 400px; margin: auto">![](http://wx4.sinaimg.cn/mw690/a9a40e85gy1fz0dtck4chj20yi1pcb2a.jpg)</div>
+<div style="width: 200px; margin: auto">![](http://wx4.sinaimg.cn/mw690/a9a40e85gy1fz0dtck4chj20yi1pcb2a.jpg)</div>
 
 ---
 
