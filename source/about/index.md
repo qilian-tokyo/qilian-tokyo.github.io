@@ -11,12 +11,10 @@ comments: false
 
 ### ■　关于场地
 
-{% note primary %} 
 #### 七联・事务所
 台東区東上野 5-15-2 TSSビル 1F
 
 上野駅より8分, 稲荷町駅より3分
-{% endnote %}
 
 ---
 
