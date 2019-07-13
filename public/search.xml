@@ -1055,18 +1055,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[东京不设防第4期 | 读城记]]></title>
-    <url>%2F2017%2F11%2F24%2F20171124_tokyo_radio_series_4%2F</url>
-    <content type="text"><![CDATA[东京，大阪，京都，名古屋 … … 每个人心里，对一座城市都有不同的认知和况味。本期邀请到的嘉宾，Rob：大学时代在大分县的山上度过，因为工作来到东京这个花花世界，自有一番异于常人的领悟。同样身处闹市的3个人，聚在一起胡乱聊了一些对日本城市的羁绊，以飨听众。]]></content>
-      <categories>
-        <category>七联自制</category>
-      </categories>
-      <tags>
-        <tag>东京不设防</tag>
-        <tag>七联深夜电台</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[学生社区正式登录UniSpace!]]></title>
     <url>%2F2017%2F11%2F24%2F20171124_photos_fourm_new_space%2F</url>
     <content type="text"><![CDATA[七联终于拥有了自己的场地！ 欢迎大家加入七联・学生社区！ 活动名称七联·学生社区 | 每周坚持三小时，轻松搞定GD！ 实战特色 真实还原公司GD选考场景，严格按照选考流程，让每一位学生都得到充分的参与与锻炼。 模拟GD题型 &amp; 形式丰富多样，每期选取不同业界和公司的真题 &amp; 过去问，开拓更多新颖不同的解题思路。 经验丰富的老师模拟GD结束后，对学生当场进行反馈和点评，分析学生表现的优缺点，纠正模拟GD出现的问题，与学生进行充分地交流与互动。 适宜人群 想通过大量练习，累积GD实战经验的人 想了解更多不同业界，企业GD题型 &amp; 形式的人 想通过实战模拟获得GD方法 &amp; 技巧的人 想在GD中培养自信，在真实选考中脱颖而出的人 想得到GD老师亲自点评的人]]></content>
@@ -1076,6 +1064,18 @@
       <tags>
         <tag>19卒</tag>
         <tag>学生社区</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[东京不设防第4期 | 读城记]]></title>
+    <url>%2F2017%2F11%2F24%2F20171124_tokyo_radio_series_4%2F</url>
+    <content type="text"><![CDATA[东京，大阪，京都，名古屋 … … 每个人心里，对一座城市都有不同的认知和况味。本期邀请到的嘉宾，Rob：大学时代在大分县的山上度过，因为工作来到东京这个花花世界，自有一番异于常人的领悟。同样身处闹市的3个人，聚在一起胡乱聊了一些对日本城市的羁绊，以飨听众。]]></content>
+      <categories>
+        <category>七联自制</category>
+      </categories>
+      <tags>
+        <tag>东京不设防</tag>
+        <tag>七联深夜电台</tag>
       </tags>
   </entry>
   <entry>
@@ -1327,14 +1327,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[【七联团队】正式入驻知乎！]]></title>
-    <url>%2F2017%2F09%2F12%2F20170912_zhihu%2F</url>
-    <content type="text"><![CDATA[https://www.zhihu.com/org/qi-lian-jiu-zhi/]]></content>
-      <categories>
-        <category>公告</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[七联19卒麻婆唐府聚餐]]></title>
     <url>%2F2017%2F09%2F12%2F20170912_19_party%2F</url>
     <content type="text"><![CDATA[好光阴纵没太多，一分钟那又如何，会与你共同度过，都不枉过!]]></content>
@@ -1347,6 +1339,14 @@
         <tag>19卒</tag>
         <tag>聚餐</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[【七联团队】正式入驻知乎！]]></title>
+    <url>%2F2017%2F09%2F12%2F20170912_zhihu%2F</url>
+    <content type="text"><![CDATA[https://www.zhihu.com/org/qi-lian-jiu-zhi/]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[内定実績 | 大同生命]]></title>
@@ -1763,8 +1763,8 @@
         <category>团队</category>
       </categories>
       <tags>
-        <tag>七联伐木累</tag>
         <tag>就职</tag>
+        <tag>七联伐木累</tag>
         <tag>18卒</tag>
       </tags>
   </entry>
@@ -2503,8 +2503,8 @@
         <category>就职辅导</category>
       </categories>
       <tags>
-        <tag>七联伐木累</tag>
         <tag>就职</tag>
+        <tag>七联伐木累</tag>
         <tag>VIP学员</tag>
         <tag>就职体验</tag>
       </tags>
