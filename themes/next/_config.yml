@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "七联, 求职, 职业发展，日本，中国，最大, 外资，就职，日资，留学生"
+keywords: "七联, 求职, 找工作, 职业发展，日本，中国，最大, 外资，就职，日资，留学生"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -49,9 +49,6 @@ menu:
   categories: /categories/
   archives: /archives/
   tags: /tags/
-#  sitemap: /sitemap.xml
-  commonweal: /404.html
-
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -66,9 +63,6 @@ menu_icons:
   categories: th
   tags: tags
   archives: archive
-  commonweal: heartbeat
-
-
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -256,8 +250,8 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: http://wx4.sinaimg.cn/mw690/a9a40e85gy1fjv4ev7dhfj209k09kaa0.jpg
-  description: 欢迎关注七联微信公众号！
+  qcode: /img/contactUS.jpeg
+  description: 欢迎联系我们!
 
 # Declare license on posts
 post_copyright:
