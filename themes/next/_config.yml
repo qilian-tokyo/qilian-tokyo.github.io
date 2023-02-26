@@ -133,10 +133,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   官网: https://qilian.jp/
-  移动端: https://qilian.jp/contact.html
-  微博: http://www.weibo.com/naanren
-  Facebook: https://www.facebook.com/qilian
-
+  自媒体: https://qilian.jp/info/contact.html
+  客服: https://work.weixin.qq.com/kfid/kfc2c59bf82b245627b
+  公司地址: https://qilian.jp/corporate.html
   #LinkLabel: Link
 
 
@@ -151,10 +150,10 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   # GitHub: github
   # Twitter: twitter
-  微博: weibo
-  Facebook: facebook
   官网: user-circle
-  移动端: mobile
+  自媒体: qrcode
+  客服: weixin
+  公司地址: map-pin
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
