@@ -1,6 +1,6 @@
 title: 故事在继续ing, 东京有职男
 date: 2018/03/12 19:00
-categories: 七联自制
+categories: 团队
 tags:
 - 七联
 - 东京有职男
