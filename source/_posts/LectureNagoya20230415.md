@@ -21,4 +21,4 @@ Panasonic、P&G、キーエンス、資生堂、日本IBM、Accenture、クボ�
 ![20230415](https://qilian-tokyo.github.io/img/20230415/2.jpg)
 
 ## 活动海报
-![20230415](https://qilian-tokyo.github.io/img/20230415/0.jpg)
+![20230415](https://qilian-tokyo.github.io/img/20230415/0.png)
