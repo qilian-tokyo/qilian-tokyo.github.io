@@ -21,7 +21,7 @@
     "hexo-server": "^0.2.2",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-tag-googlemaps": "^1.2.1",
-    "npm": "^6.14.18",
+    "npm": "^9.7.1",
     "to": "^0.2.9",
     "update": "^0.7.4"
   }
